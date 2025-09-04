@@ -1,6 +1,6 @@
 ![Animated coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW81bWt3dDZvY2xtbHFtazExcW0yNzJveHY4azMyemo1YW41MnF5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
 
-# 👋 Hi there, I'm **Anshumaan Rajpurohit**
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I+am+Anshumaan+Rajpurohit;Welcome+to+my+GitHub!)
 
 I’m a developer who enjoys building practical tools and engaging web experiences.  My projects range from Python‑based assistants to full‑stack portfolio sites:
 
