@@ -7,9 +7,10 @@ I’m a developer who enjoys building practical tools and engaging web experienc
 - **Voice assistant & AI tools** – In my `python‑projects` repository I build a voice‑controlled assistant that can recognise speech, detect wake words, send email, retrieve weather, play music, browse the web and even control smart‑home devices.  The assistant can speak multiple languages (including Hindi) and integrates GPT for natural‑language conversations.
 - **French learning bot** – Another part of the same repository is a Telegram bot that sends daily French vocabulary, weekly quizzes and progress reports to help learners practise.
 - **Modern portfolio website** – I also created a responsive portfolio site with interactive UI elements, animations, custom cursors and dynamic content loading.  The site is built using HTML5, CSS3, JavaScript and a Python/Flask backend.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational)
 
 ## 🔧 Technologies & Tools
-
 Here are some of the languages and tools I use regularly:
 
 - **Languages** – Python (3.8+), JavaScript/TypeScript, HTML5 & CSS3
