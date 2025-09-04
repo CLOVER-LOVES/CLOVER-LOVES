@@ -33,10 +33,9 @@ You can explore these projects in my repositories.
 
 GitHub provides some handy widgets to show your activity.  Once you create a profile README, you can embed these cards to display your statistics.  For example, you might use the following markdown (replace `CLOVER-LOVES` with your username if you change it):
 
-```markdown
 ![Anshumaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLOVER-LOVES&show_icons=true&theme=radical)
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CLOVER-LOVES&layout=compact)
-```
 
 The first image shows your overall contributions and stars, while the second summarises the programming languages used in your public repositories.
 
