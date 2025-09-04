@@ -1,4 +1,6 @@
 ![Animated coding gif](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![Alt text](https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 # 👋 Hi there, I'm **Anshumaan Rajpurohit**
 
 I’m a developer who enjoys building practical tools and engaging web experiences.  My projects range from Python‑based assistants to full‑stack portfolio sites:
