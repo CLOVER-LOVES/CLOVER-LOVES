@@ -1,5 +1,4 @@
-![Animated coding gif](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-![Alt text](https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![Animated coding gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW81bWt3dDZvY2xtbHFtazExcW0yNzJveHY4azMyemo1YW41MnF5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
 
 # 👋 Hi there, I'm **Anshumaan Rajpurohit**
 
