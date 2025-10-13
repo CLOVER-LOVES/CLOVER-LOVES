@@ -5,7 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I+am+Anshumaan+Rajpurohit;Welcome+to+my+GitHub!)
 
 Developer | Data Engineer | Student | Gym Enthusiast
-
 I create impactful tools and full-stack experiences — blending data, design, and discipline. From Python automation to scalable web systems, I turn ideas into functional, high-performance solutions.
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
