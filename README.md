@@ -21,7 +21,6 @@ I create impactful tools and full-stack experiences — blending data, design, a
 | Project | Highlights |
 |--------|-----------|
 | **Voice assistant** | Voice recognition and TTS, wake-word detection, email sending, weather updates, music control, web browsing, smart-home control, and GPT-powered conversations |
-| **French learning bot** | Daily vocabulary with examples, weekly quizzes, and progress tracking via Telegram |
 | **Portfolio website** | Responsive design, animated UI, custom cursor and scrolling effects, dynamic content loading, and a Flask-powered contact form |
 
 Explore these projects in my repositories.
